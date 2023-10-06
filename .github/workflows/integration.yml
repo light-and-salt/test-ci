@@ -2,7 +2,7 @@ name: integration CI
 
 on:
   pull_request:
-    branches: [ main ] # Adjust this to the name of your default branch, e.g., master
+    branches: [ main ]
 
 jobs:
   build:
